@@ -17,6 +17,14 @@
 - slowfood.connorroelofsen.com
 - rps.connorroelofsen.com
 
+## To do's:
+
+- Switch rps from apache to nginx.
+- 
+- 
+- 
+- 
+
 ### User Stories
 
  ```
