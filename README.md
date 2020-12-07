@@ -20,9 +20,7 @@
 ## To do's:
 
 - Switch rps from apache to nginx.
-- 
-- 
-- 
+- Switch Portfolio to main domain.
 - 
 
 ### User Stories
